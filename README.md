@@ -5,3 +5,5 @@ Repository to test skills
 - Pas de README.MD aan via een lokale versie van de repository door er de tekst "Ik, <naam>, heb dit aangepast" aan toe te voegen (doe dit via een branch)
 - Zorg dat deze aanpassing zichtbaar wordt in jouw online versie op jouw GitHub account (gebruik hiervoor de juiste techniek)
 - Zorg ervoor dat het niet meer mogelijk is om README aan te passen hierna.
+
+Ik, Jozua, heb dit aangepast.
